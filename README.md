@@ -1,4 +1,4 @@
-Smart Cart is a machine learning-based customer segmentation project that analyzes shopping behavior using unsupervised learning techniques.
+Customer Segmentation Cart is a machine learning-based customer segmentation project that analyzes shopping behavior using unsupervised learning techniques.
 The objective is to identify meaningful customer groups based on purchasing patterns, enabling data-driven business decisions such as targeted marketing, personalized offers, and demand optimization.
 
 This project demonstrates end-to-end ML workflow including:
